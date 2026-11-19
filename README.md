@@ -6,12 +6,10 @@
 
 ## Integrantes
 
-- **Integrantes:** [Agregar aquí los nombres completos de todos los integrantes]
-- **Institución:** [Nombre de la institución]
-- **Asignatura:** [Nombre de la asignatura]
-- **Docente:** [Nombre del docente]
-
-> Antes de publicar el repositorio, reemplaza los campos entre corchetes por la información del equipo.
+- **Integrantes:** Santiago Andrés Vega Pedraza
+- **Institución:** Universidad Industrial de Santander
+- **Asignatura:** Inteligencia Artificial 1
+- **Docente:** Gustavo Garzón
 
 ## Objetivo general
 
