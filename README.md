@@ -4,11 +4,6 @@
 
 <p align="center">
   <img src="/banner.png" width="100%" >
-</p>
-
-<h1 align="center">
-  Detección de anomalías mecánicas mediante análisis acústico
-</h1>
 
 <p align="center">
   <strong>Santiago Andres Vega Pedraza</strong>
