@@ -2,7 +2,17 @@
 
 **Proyecto final – Análisis de señales de audio de motores Brushless DC (BLDC) para mantenimiento predictivo.**
 
-<!-- Banner del proyecto: se incorporará en docs/assets/banner-proyecto.png -->
+<p align="center">
+  <img src="/banner.png" width="100%" alt="Detección de anomalías mecánicas mediante análisis acústico">
+</p>
+
+<h1 align="center">
+  Detección de anomalías mecánicas mediante análisis acústico
+</h1>
+
+<p align="center">
+  <strong>Santiago Andres Vega Pedraza</strong>
+</p>
 
 ## Integrantes
 
