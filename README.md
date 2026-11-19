@@ -4,10 +4,7 @@
 
 <p align="center">
   <img src="/banner.png" width="100%" >
-
 <p align="center">
-  <strong>Santiago Andres Vega Pedraza</strong>
-</p>
 
 ## Integrantes
 
