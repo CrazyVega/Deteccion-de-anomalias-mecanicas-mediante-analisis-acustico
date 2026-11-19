@@ -3,7 +3,7 @@
 **Proyecto final – Análisis de señales de audio de motores Brushless DC (BLDC) para mantenimiento predictivo.**
 
 <p align="center">
-  <img src="/banner.png" width="100%" alt="Detección de anomalías mecánicas mediante análisis acústico">
+  <img src="/banner.png" width="100%" >
 </p>
 
 <h1 align="center">
